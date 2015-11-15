@@ -6693,7 +6693,7 @@
         }, e.exports = s
     }), define("core/UI", ["require", "exports", "module", "famous/View", "famous/Matrix", "famous/Surface", "famous/Utility", "famous/Modifier", "famous/Engine", "famous/ContainerSurface", "famous-animation/Easing", "famous-ui/AutoUI", "famous-ui/Buttons/RotateButton", "./Signup", "./SignupError", "famous-utils/Time", "famous-utils/Utils"], function(t, i, e) {
         function s() {
-            n.apply(this, arguments), this.buttonOpacity = .25, this.uiShowMatrix, this.uiHideMatrix, this.shownPositions, this.hiddenPositions, this.button, this.buttonModifier, this.ui, this.uiModifier, this.backingPanel, this.backingModifier, this.signup, this.error, this.positions(), this.initSignup(), this.backingShowMatrix, this.uiHideMatrix, this.uiShowMatrix, this.shownPositions, this.hiddenPositions, this._uiAdded = !1, this._uiVisible = !1, this.initButton(), this.initUI(), this.initBacking(), this.events(), this.showButton(), this.showAll(), m.isMobile() && this.button.close()
+            n.apply(this, arguments), this.buttonOpacity = .25, this.uiShowMatrix, this.uiHideMatrix, this.shownPositions, this.hiddenPositions, this.button, this.buttonModifier, this.ui, this.uiModifier, this.backingPanel, this.backingModifier, this.signup, this.error, this.positions(), this.initSignup(), this.backingShowMatrix, this.uiHideMatrix, this.uiShowMatrix, this.shownPositions, this.hiddenPositions, this._uiAdded = !1, this._uiVisible = !1, this.initButton(), this.initUI(), this.initBacking(), this.events(), this.showButton(), this.hideAll(), m.isMobile() && this.button.close()
         }
 
         function o(t) {
@@ -7114,7 +7114,7 @@
         }
         s.prototype = Object.create(o.prototype), s.prototype.constructor = s, s.DEFAULT_OPTIONS = {}, s.prototype.events = function() {
             this.parentUI.on("showUI", function() {
-                this.showUI()
+               this.showUI()
             }.bind(this)), this.parentUI.on("hideUI", this.hideUI.bind(this)), this.lightbox.on("selectionView", this.parentUI.hideAllUI.bind(this.parentUI)), this.lightbox.on("gridView", this.parentUI.showAllUI.bind(this.parentUI))
         }, s.prototype.initUI = function() {
             this.nonDeboucnedReflow = this.lightbox.layout.reflow.bind(this.lightbox.layout), this.reflowGrid = r.debounce(this.lightbox.layout.reflow.bind(this.lightbox.layout), 150), this.labelProperties = {
