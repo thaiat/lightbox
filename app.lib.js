@@ -6902,7 +6902,7 @@
             medium: "etching and aquatint",
             description: "This print is work No. 1 of the Caprichos series (1st edition, Madrid, 1799).",
             thumbSrc: "data/casque1.jpg",
-            source: "Museo del Prado",
+            review: "(243 reviews)",
             material: "<img src='data/3star.png' alt='3/5' height='25' width='140'>",
             medium: "etching and a'>",
             date: "$99",
@@ -6920,7 +6920,7 @@
             medium: "etching and aquatint",
             description: "This print is work No. 2 of the Caprichos series (1st edition, Madrid, 1799).",
             thumbSrc: "data/casque2.jpg",
-            source: "Museo del Prado",
+            review: "(202 reviews)",
             material: "<img src='data/4star.png' alt='4/5' height='25' width='140'>",
             date: "$299",
             spanishTitle: "High-end Beats model, pliable<br>Noice reducer, comfort",
@@ -6938,7 +6938,7 @@
             medium: "etching and aquatint",
             description: "This print is work No. 3 of the Caprichos series (1st edition, Madrid, 1799).",
             //thumbSrc: "data/caprichos/Museo_del_Prado_-_Goya_-_Caprichos_-_No._03_-_Que_viene_el_Coco_thumb.jpg",
-            source: "Museo del Prado",
+            review: "(211 reviews)",
             material: "<img src='data/4star.png' alt='4/5' height='25' width='140'>",
             date: "$250",
             spanishTitle: "High-end Denon model, pliable<br>Comfort, earbuds in real leather, high-quality materials.",
@@ -6956,7 +6956,7 @@
             medium: "etching and aquatint",
             description: "This print is work No. 4 of the Caprichos series (1st edition, Madrid, 1799).",
             //thumbSrc: "data/caprichos/Museo_del_Prado_-_Goya_-_Caprichos_-_No._04_-_El_de_la_rollona_thumb.jpg",
-            source: "Museo del Prado",
+            review: "(188 reviews)",
             material: "<img src='data/4star.png' alt='4/5' height='25' width='140'>",
             date: "$79",
             spanishTitle: "Sony earphones, light and movable <br>Premium plastic, replacement earbuds offered.",
@@ -6974,7 +6974,7 @@
             medium: "etching and aquatint",
             description: "This print is work No. 5 of the Caprichos series (1st edition, Madrid, 1799).",
             //thumbSrc: "data/caprichos/Museo_del_Prado_-_Goya_-_Caprichos_-_No._05_-_Tal_para_qual_thumb.jpg",
-            source: "Museo del Prado",
+            review: "(205 reviews)",
             material: "<img src='data/4star.png' alt='4/5' height='25' width='140'>",
             date: "$199",
             spanishTitle: "Classic Beats headset, pliable</br>good comfort, noice reducer",
@@ -6992,7 +6992,7 @@
             medium: "etching and aquatint",
             description: "This print is work No. 6 of the Caprichos series (1st edition, Madrid, 1799).",
             //thumbSrc: "data/caprichos/Museo_del_Prado_-_Goya_-_Caprichos_-_No._06_-_Nadie_se_conoce_thumb.jpg",
-            source: "Museo del Prado",
+            review: "(109 reviews)",
             material: "<img src='data/4star.png' alt='4/5' height='25' width='140'>",
             date: "$149",
             spanishTitle: "Wireless Panasonic headset <br> Ultra-light",
@@ -7010,7 +7010,7 @@
             medium: "etching and aquatint",
             description: "This print is work No. 7 of the Caprichos series (1st edition, Madrid, 1799).",
             //thumbSrc: "data/caprichos/Museo_del_Prado_-_Goya_-_Caprichos_-_No._07_-_Ni_asi_la_distingue_thumb.jpg",
-            source: "Museo del Prado",
+            review: "(132 reviews)",
             material: "<img src='data/4star.png' alt='4/5' height='25' width='140'>",
             date: "$85",
             spanishTitle: "Marshall classic headset <br>Ajustable",
@@ -7028,7 +7028,7 @@
             medium: "etching and aquatint",
             description: "This print is work No. 8 of the Caprichos series (1st edition, Madrid, 1799).",
             //thumbSrc: "data/caprichos/Museo_del_Prado_-_Goya_-_Caprichos_-_No._08_-_Que_se_la_llevaron21_thumb.jpg",
-            source: "Museo del Prado",
+            review: "(180 reviews)",
             material: "<img src='data/5star.png' alt='5/5' height='25' width='140'>",
             date: "$239",
             spanishTitle: "Panasonic high-end wireless headset<br>Noise-reducer, rechargeable, good battery life, foldable.",
@@ -7046,7 +7046,7 @@
             medium: "etching and aquatint",
             description: "This print is work No. 9 of the Caprichos series (1st edition, Madrid, 1799).",
             //thumbSrc: "data/caprichos/Museo_del_Prado_-_Goya_-_Caprichos_-_No._09_-_Tantalo_thumb.jpg",
-            source: "Museo del Prado",
+            review: "(274 reviews)",
             material: "<img src='data/4star.png' alt='4/5' height='25' width='140'>",
             date: "$259",
             spanishTitle: "High-end Oppo headset, foldable <br>Comfort, leather eartips, premium materials.",
@@ -7064,7 +7064,7 @@
             medium: "etching and aquatint",
             description: "This print is work No. 10 of the Caprichos series (1st edition, Madrid, 1799).",
             //thumbSrc: "data/caprichos/Museo_del_Prado_-_Goya_-_Caprichos_-_No._10_-_El_amor_y_la_muerte_thumb.jpg",
-            source: "Museo del Prado",
+            review: "(187 reviews)",
             material: "<img src='data/4star.png' alt='4/5' height='25' width='140'>",
             date: "$195",
             spanishTitle: "Pioneer premium headset<br> Noise-reducer, leather eartips.",
@@ -7082,7 +7082,7 @@
             medium: "etching and aquatint",
             description: "This print is work No. 11 of the Caprichos series (1st edition, Madrid, 1799).",
             //thumbSrc: "data/caprichos/Museo_del_Prado_-_Goya_-_Caprichos_-_No._11_-_Muchachos_al_avC3ADo_thumb.jpg",
-            source: "Museo del Prado",
+            review: "(138 reviews)",
             material: "<img src='data/4star.png' alt='4/5' height='25' width='140'>",
             date: "$180",
             spanishTitle: "Razer gaming series headset<br> Integrated microphone, isolation, comfort.",
@@ -7100,7 +7100,7 @@
             medium: "etching and aquatint",
             description: "This print is work No. 12 of the Caprichos series (1st edition, Madrid, 1799).",
             //thumbSrc: "data/caprichos/Museo_del_Prado_-_Goya_-_Caprichos_-_No._12_-_A_caza_de_dientes_thumb.jpg",
-            source: "Museo del Prado",
+            review: "(322 reviews)",
             material: "<img src='data/5star.png' alt='5/5' height='25' width='140'>",
             date: "$319",
             spanishTitle: "Focal Performance series <br>Pure sound quality, integrated microphone, premium materials.",
@@ -7508,7 +7508,7 @@
 
         function o(t) {
             var i = "";
-            return t.series && (i += '<span class="lightbox-tag-title"> JACK TYPE </span><br/>', i += '<span class="lightbox-tag-content">' + t.series + "</span><br/>"), t.edition && (i += '<span class="lightbox-tag-title"> EDITION </span><br/>', i += '<span class="lightbox-tag-content">' + t.edition + "</span><br/>"), t.artist && (i += '<span class="lightbox-tag-title"> CABLE LENGTH</span><br/>', i += '<span class="lightbox-tag-content">' + t.artist + "</span><br/>"), t.size && (i += '<span class="lightbox-tag-title"> WEIGHT </span><br/>', i += '<span class="lightbox-tag-content">' + t.size + "</span><br/>"), t.date && (i += '<span class="lightbox-tag-title"> PRICE </span><br/>', i += '<span class="lightbox-tag-content">' + t.date + "</span><br/>"),  t.material && (i += '<span class="lightbox-tag-title"> RATING </span><br/>', i += '<span class="lightbox-tag-content">' + t.material + "</span><br/>"), i
+            return t.series && (i += '<span class="lightbox-tag-title"> JACK TYPE </span><br/>', i += '<span class="lightbox-tag-content">' + t.series + "</span><br/>"), t.edition && (i += '<span class="lightbox-tag-title"> EDITION </span><br/>', i += '<span class="lightbox-tag-content">' + t.edition + "</span><br/>"), t.artist && (i += '<span class="lightbox-tag-title"> CABLE LENGTH</span><br/>', i += '<span class="lightbox-tag-content">' + t.artist + "</span><br/>"), t.size && (i += '<span class="lightbox-tag-title"> WEIGHT </span><br/>', i += '<span class="lightbox-tag-content">' + t.size + "</span><br/>"), t.date && (i += '<span class="lightbox-tag-title"> PRICE </span><br/>', i += '<span class="lightbox-tag-content">' + t.date + "</span><br/><br/>"),  t.material && (i += '<span class="lightbox-tag-title"> RATING </span><br/>', i += '<span class="lightbox-tag-content">' + t.material + "<br/><div class='reviews'>" + t.reviews + "</div></span>"), i
         }
 
         function n(t) {
@@ -7705,7 +7705,8 @@
                             artist: t.artist,
                             date: t.date,
                             size: t.dimensions,
-                            material: t.material
+                            material: t.material,
+                            reviews: t.review
                         }
                     }),
                     n = new h({
