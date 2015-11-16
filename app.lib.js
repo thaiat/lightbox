@@ -6905,10 +6905,12 @@
             source: "Museo del Prado",
             location: "Madrid",
             date: "99$",
-            spanishTitle: "Francisco Goya y Lucientes, pintor",
+            spanishTitle: "product baseline<br>other line",
             permissions: "This is a faithful photographic reproduction of a two-dimensional, public domain work of art. Such reproductions are in the public domain in the United States. In other jurisdictions, re-use of this content may be restricted; see Reuse of PD-Art photographs for details. The work of art itself is in the public domain for the following reason:Public domainPublic domainfalsefalseThis work is in the public domain in the United States, and those countries with a copyright term of life of the author plus 100 years or less.This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.",
             englishTitle: "Bose",
-            dimensions: "21.5 × 15.1 cm (8.5 × 5.9 in). (print)/ 30,6 x 20,1 cm. (paper)"
+            serie: 'this is serie',
+            artist: 'this is artist',
+            dimensions: "1kg"
         }, {
             //size: [567, 800],
             //src: "data/caprichos/Museo_del_Prado_-_Goya_-_Caprichos_-_No._02_-_El_si_pronuncian_y_la_mano_alargan_al_primero_que_llega.jpg",
@@ -7676,9 +7678,9 @@
                             spanish: t.spanishTitle
                         },
                         tag: {
-                            series: "Capricho " + (e + 1),
-                            artist: "Francisco Goya y Lucientes (Spain, Fuendetodos, 1746-1828)",
-                            date: "Spain, 1799",
+                            series: t.serie,
+                            artist: t.artist,
+                            date: t.date,
                             size: t.dimensions,
                             material: t.material
                         }
