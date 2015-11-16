@@ -90,8 +90,9 @@ a, .medium {
 /* BACKTILE.JS */
 .lightbox-title { 
     font-family: 'Avenir Next W10 Medium';
-    padding-bottom: 20px;
+    padding-bottom:10px;
     float: left;
+    font-size: 25px;
 }
 
 .lightbox-spanish-title { 
