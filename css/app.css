@@ -128,6 +128,10 @@ a, .medium {
     }
 }
 
+img {
+    border-radius: 4px;
+}
+
 .lightbox-thumb { 
     background: -moz-radial-gradient(center, ellipse cover,  rgba(0,0,0,0.47) 0%, rgba(0,0,0,0.73) 85%, rgba(0,0,0,0.77) 100%); /* FF3.6+ */
     background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,rgba(0,0,0,0.47)), color-stop(85%,rgba(0,0,0,0.73)), color-stop(100%,rgba(0,0,0,0.77))); /* Chrome,Safari4+ */
@@ -138,6 +142,7 @@ a, .medium {
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#78000000', endColorstr='#c4000000',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
     border: 2px solid #93CFB5;
     cursor: pointer;
+    border-radius: 4px;
 }
 .lightbox-thumb-tile { 
     font-family: 'Avenir Next W10 Medium'; 
