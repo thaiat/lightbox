@@ -6904,13 +6904,13 @@
             thumbSrc: "data/casque1.jpg",
             source: "Museo del Prado",
             location: "Madrid",
-            date: "99$",
-            spanishTitle: "product baseline<br>other line",
+            date: "$99",
+            spanishTitle: "New series Sennheiser audioset<br>Pliable, light",
             permissions: "This is a faithful photographic reproduction of a two-dimensional, public domain work of art. Such reproductions are in the public domain in the United States. In other jurisdictions, re-use of this content may be restricted; see Reuse of PD-Art photographs for details. The work of art itself is in the public domain for the following reason:Public domainPublic domainfalsefalseThis work is in the public domain in the United States, and those countries with a copyright term of life of the author plus 100 years or less.This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.",
-            englishTitle: "Bose",
-            serie: 'this is serie',
-            artist: 'this is artist',
-            dimensions: "1kg"
+            englishTitle: "Sennheiser",
+            serie: '3,5mm',
+            artist: '1,02m',
+            dimensions: "190g"
         }, {
             //size: [567, 800],
             //src: "data/caprichos/Museo_del_Prado_-_Goya_-_Caprichos_-_No._02_-_El_si_pronuncian_y_la_mano_alargan_al_primero_que_llega.jpg",
@@ -6921,11 +6921,13 @@
             thumbSrc: "data/casque2.jpg",
             source: "Museo del Prado",
             location: "Madrid",
-            date: "1797-1799",
-            spanishTitle: "El sí pronuncian y la mano alargan al primero que llega",
+            date: "$299",
+            spanishTitle: "High-end Beats model, pliable<br>Noice reducer, comfort",
             permissions: "This is a faithful photographic reproduction of a two-dimensional, public domain work of art. Such reproductions are in the public domain in the United States. In other jurisdictions, re-use of this content may be restricted; see Reuse of PD-Art photographs for details. The work of art itself is in the public domain for the following reason:Public domainPublic domainfalsefalseThis work is in the public domain in the United States, and those countries with a copyright term of life of the author plus 100 years or less.This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.",
-            englishTitle: "They say yes and give their hand to the first comer",
-            dimensions: "21.5 × 15.3 cm (8.5 × 6 in). (print)/ 30,6 x 20,1 cm. (paper)"
+            englishTitle: "Beats by Dr. Dre",
+            serie: '3,5mm',
+            artist: '1,65m',
+            dimensions: "290g"
         }, {
             //size: [574, 800],
             //src: "data/caprichos/Museo_del_Prado_-_Goya_-_Caprichos_-_No._03_-_Que_viene_el_Coco.jpg",
@@ -6937,13 +6939,15 @@
             //thumbSrc: "data/caprichos/Museo_del_Prado_-_Goya_-_Caprichos_-_No._03_-_Que_viene_el_Coco_thumb.jpg",
             source: "Museo del Prado",
             location: "Madrid",
-            date: "1797-1799",
-            spanishTitle: "Que viene el coco",
+            date: "$250",
+            spanishTitle: "High-end Denon model, pliable<br>Comfort, earbuds in real leather, high-quality materials.",
             permissions: "This is a faithful photographic reproduction of a two-dimensional, public domain work of art. Such reproductions are in the public domain in the United States. In other jurisdictions, re-use of this content may be restricted; see Reuse of PD-Art photographs for details. The work of art itself is in the public domain for the following reason:Public domainPublic domainfalsefalseThis work is in the public domain in the United States, and those countries with a copyright term of life of the author plus 100 years or less.This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.",
-            englishTitle: "Here comes the bogeyman",
-            dimensions: "21.4 × 15.2 cm (8.4 × 6 in) (print)/ 30,6 x 20,1 cm (paper)"
+            englishTitle: "Denon",
+            serie: '3,5mm',
+            artist: '1,3m',
+            dimensions: "285g"
         }, {
-        	size: [800, 800],
+            size: [800, 800],
             src: 'data/casque4.jpg',
             thumbSrc: "data/casque4.jpg",
             //size: [587, 800],
@@ -6953,13 +6957,15 @@
             //thumbSrc: "data/caprichos/Museo_del_Prado_-_Goya_-_Caprichos_-_No._04_-_El_de_la_rollona_thumb.jpg",
             source: "Museo del Prado",
             location: "Madrid",
-            date: "1797-1799",
-            spanishTitle: "El de la Rollona",
+            date: "$79",
+            spanishTitle: "Sony earphones, light and movable <br>Premium plastic, replacement earbuds offered.",
             permissions: "This is a faithful photographic reproduction of a two-dimensional, public domain work of art. Such reproductions are in the public domain in the United States. In other jurisdictions, re-use of this content may be restricted; see Reuse of PD-Art photographs for details. The work of art itself is in the public domain for the following reason:Public domainPublic domainfalsefalseThis work is in the public domain in the United States, and those countries with a copyright term of life of the author plus 100 years or less.This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.",
-            englishTitle: "Nanny's boy",
-            dimensions: "20.5 × 15 cm (8.1 × 5.9 in) (print)/ 30,6 x 20,1 cm (paper)"
+            englishTitle: "Sony",
+            serie: '3,5mm',
+            artist: '1,2m',
+            dimensions: "120g"
         }, {
-        	size: [800, 800],
+            size: [800, 800],
             src: 'data/casque5.jpg',
             thumbSrc: "data/casque5.jpg",
             //size: [624, 800],
@@ -6969,13 +6975,15 @@
             //thumbSrc: "data/caprichos/Museo_del_Prado_-_Goya_-_Caprichos_-_No._05_-_Tal_para_qual_thumb.jpg",
             source: "Museo del Prado",
             location: "Madrid",
-            date: "1797-1799",
-            spanishTitle: "Tal para cual",
+            date: "$199",
+            spanishTitle: "Classic Beats headset, pliable</br>good comfort, noice reducer",
             permissions: "This is a faithful photographic reproduction of a two-dimensional, public domain work of art. Such reproductions are in the public domain in the United States. In other jurisdictions, re-use of this content may be restricted; see Reuse of PD-Art photographs for details. The work of art itself is in the public domain for the following reason:Public domainPublic domainfalsefalseThis work is in the public domain in the United States, and those countries with a copyright term of life of the author plus 100 years or less.This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.",
-            englishTitle: "Two of a kind",
-            dimensions: "19.8 × 15 cm (7.8 × 5.9 in). (Picture) / 30,6 x 20,1 cm. (paper)"
+            englishTitle: "Beats by Dr. Dre",
+            serie: '3,5mm',
+            artist: '1,4m',
+            dimensions: "265g"
         }, {
-        	size: [800, 800],
+            size: [800, 800],
             src: 'data/casque6.jpg',
             thumbSrc: "data/casque6.jpg",
             //size: [568, 800],
@@ -6985,13 +6993,15 @@
             //thumbSrc: "data/caprichos/Museo_del_Prado_-_Goya_-_Caprichos_-_No._06_-_Nadie_se_conoce_thumb.jpg",
             source: "Museo del Prado",
             location: "Madrid",
-            date: "1797-1799",
-            spanishTitle: "Nadie se conoce",
+            date: "$149",
+            spanishTitle: "Wireless Panasonic headset <br> Ultra-light",
             permissions: "This is a faithful photographic reproduction of a two-dimensional, public domain work of art. Such reproductions are in the public domain in the United States. In other jurisdictions, re-use of this content may be restricted; see Reuse of PD-Art photographs for details. The work of art itself is in the public domain for the following reason:Public domainPublic domainfalsefalseThis work is in the public domain in the United States, and those countries with a copyright term of life of the author plus 100 years or less.This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.",
-            englishTitle: "Nobody knows himself",
-            dimensions: "21.4 × 15.2 cm (8.4 × 6 in). (Picture) / 30,6 x 20,1 cm. (paper)"
+            englishTitle: "Panasonic",
+            serie: '3,5mm',
+            artist: '1,24m',
+            dimensions: "180g"
         }, {
-        	size: [800, 800],
+            size: [800, 800],
             src: 'data/casque7.jpg',
             thumbSrc: "data/casque7.jpg",
             //size: [600, 800],
@@ -7001,13 +7011,15 @@
             //thumbSrc: "data/caprichos/Museo_del_Prado_-_Goya_-_Caprichos_-_No._07_-_Ni_asi_la_distingue_thumb.jpg",
             source: "Museo del Prado",
             location: "Madrid",
-            date: "1797-1799",
-            spanishTitle: "Ni así la distingue",
+            date: "$85",
+            spanishTitle: "Marshall classic headset <br>Ajustable",
             permissions: "This is a faithful photographic reproduction of a two-dimensional, public domain work of art. Such reproductions are in the public domain in the United States. In other jurisdictions, re-use of this content may be restricted; see Reuse of PD-Art photographs for details. The work of art itself is in the public domain for the following reason:Public domainPublic domainfalsefalseThis work is in the public domain in the United States, and those countries with a copyright term of life of the author plus 100 years or less.This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.",
-            englishTitle: "Even thus he cannot make her out",
-            dimensions: "19.7 × 14.9 cm (7.8 × 5.9 in). (Picture) / 30,6 x 20,1 cm. (paper)"
+            englishTitle: "Marshall",
+            serie: '3,5mm',
+            artist: '1,7m',
+            dimensions: "190g"
         }, {
-        	size: [800, 800],
+            size: [800, 800],
             src: 'data/casque8.jpg',
             thumbSrc: "data/casque8.jpg",
             //size: [569, 800],
@@ -7017,13 +7029,15 @@
             //thumbSrc: "data/caprichos/Museo_del_Prado_-_Goya_-_Caprichos_-_No._08_-_Que_se_la_llevaron21_thumb.jpg",
             source: "Museo del Prado",
             location: "Madrid",
-            date: "1797-1799",
-            spanishTitle: "¡Que se la llevaron!",
+            date: "$239",
+            spanishTitle: "Panasonic high-end wireless headset<br>Noise-reducer, rechargeable, good battery life, foldable.",
             permissions: "This is a faithful photographic reproduction of a two-dimensional, public domain work of art. Such reproductions are in the public domain in the United States. In other jurisdictions, re-use of this content may be restricted; see Reuse of PD-Art photographs for details. The work of art itself is in the public domain for the following reason:Public domainPublic domainfalsefalseThis work is in the public domain in the United States, and those countries with a copyright term of life of the author plus 100 years or less.This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.",
-            englishTitle: "So they carried her off!",
-            dimensions: "21.4 × 15 cm (8.4 × 5.9 in). (Picture) / 30,6 x 20,1 cm. (paper)"
+            englishTitle: "Panasonic",
+            serie: '3,5mm',
+            artist: '1,25m',
+            dimensions: "250g"
         }, {
-        	size: [800, 800],
+            size: [800, 800],
             src: 'data/casque9.jpg',
             thumbSrc: "data/casque9.jpg",
             //size: [593, 800],
@@ -7033,13 +7047,15 @@
             //thumbSrc: "data/caprichos/Museo_del_Prado_-_Goya_-_Caprichos_-_No._09_-_Tantalo_thumb.jpg",
             source: "Museo del Prado",
             location: "Madrid",
-            date: "1797-1799",
-            spanishTitle: "Tántalo",
+            date: "$259",
+            spanishTitle: "High-end Oppo headset, foldable <br>Comfort, leather eartips, premium materials.",
             permissions: "This is a faithful photographic reproduction of a two-dimensional, public domain work of art. Such reproductions are in the public domain in the United States. In other jurisdictions, re-use of this content may be restricted; see Reuse of PD-Art photographs for details. The work of art itself is in the public domain for the following reason:Public domainPublic domainfalsefalseThis work is in the public domain in the United States, and those countries with a copyright term of life of the author plus 100 years or less.This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.",
-            englishTitle: "Tantalus",
-            dimensions: "20.5 × 14.9 cm (8.1 × 5.9 in). (Picture) / 30,6 x 20,1 cm. (paper)"
+            englishTitle: "Oppo",
+            serie: '3,5mm',
+            artist: '1,3m',
+            dimensions: "260g"
         }, {
-        	size: [800, 800],
+            size: [800, 800],
             src: 'data/casque10.jpg',
             thumbSrc: "data/casque10.jpg",
             //size: [571, 800],
@@ -7049,13 +7065,15 @@
             //thumbSrc: "data/caprichos/Museo_del_Prado_-_Goya_-_Caprichos_-_No._10_-_El_amor_y_la_muerte_thumb.jpg",
             source: "Museo del Prado",
             location: "Madrid",
-            date: "1797-1799",
-            spanishTitle: "El amor y la muerte",
+            date: "$195",
+            spanishTitle: "Pioneer premium headset<br> Noise-reducer, leather eartips.",
             permissions: "This is a faithful photographic reproduction of a two-dimensional, public domain work of art. Such reproductions are in the public domain in the United States. In other jurisdictions, re-use of this content may be restricted; see Reuse of PD-Art photographs for details. The work of art itself is in the public domain for the following reason:Public domainPublic domainfalsefalseThis work is in the public domain in the United States, and those countries with a copyright term of life of the author plus 100 years or less.This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.",
-            englishTitle: "Love and death",
-            dimensions: "21.5 × 15.1 cm (8.5 × 5.9 in). (print)/ 30,6 x 20,1 cm. (paper)"
+            englishTitle: "Pioneer",
+            serie: '3,5mm',
+            artist: '1,4m',
+            dimensions: "220g"
         }, {
-        	size: [800, 800],
+            size: [800, 800],
             src: 'data/casque11.jpg',
             thumbSrc: "data/casque11.jpg",
             //size: [568, 800],
@@ -7065,13 +7083,15 @@
             //thumbSrc: "data/caprichos/Museo_del_Prado_-_Goya_-_Caprichos_-_No._11_-_Muchachos_al_avC3ADo_thumb.jpg",
             source: "Museo del Prado",
             location: "Madrid",
-            date: "1797-1799",
-            spanishTitle: "Muchachos al avío",
+            date: "$180",
+            spanishTitle: "Razer gaming series headset<br> Integrated microphone, isolation, comfort.",
             permissions: "This is a faithful photographic reproduction of a two-dimensional, public domain work of art. Such reproductions are in the public domain in the United States. In other jurisdictions, re-use of this content may be restricted; see Reuse of PD-Art photographs for details. The work of art itself is in the public domain for the following reason:Public domainPublic domainfalsefalseThis work is in the public domain in the United States, and those countries with a copyright term of life of the author plus 100 years or less.This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.",
-            englishTitle: "Lads making ready",
-            dimensions: "21.5 × 15.2 cm (8.5 × 6 in). (print)/ 30,6 x 20,1 cm. (paper)"
+            englishTitle: "Razer",
+            serie: '3,5mm',
+            artist: '1,5m',
+            dimensions: "200g"
         }, {
-        	size: [800, 800],
+            size: [800, 800],
             src: 'data/casque12.jpg',
             thumbSrc: "data/casque12.jpg",
             //size: [567, 800],
@@ -7081,11 +7101,13 @@
             //thumbSrc: "data/caprichos/Museo_del_Prado_-_Goya_-_Caprichos_-_No._12_-_A_caza_de_dientes_thumb.jpg",
             source: "Museo del Prado",
             location: "Madrid",
-            date: "1797-1799",
-            spanishTitle: "A caza de dientes",
+            date: "$319",
+            spanishTitle: "Focal Performance series <br>Pure sound quality, integrated microphone, premium materials.",
             permissions: "This is a faithful photographic reproduction of a two-dimensional, public domain work of art. Such reproductions are in the public domain in the United States. In other jurisdictions, re-use of this content may be restricted; see Reuse of PD-Art photographs for details. The work of art itself is in the public domain for the following reason:Public domainPublic domainfalsefalseThis work is in the public domain in the United States, and those countries with a copyright term of life of the author plus 100 years or less.This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.",
-            englishTitle: "Out hunting for teeth",
-            dimensions: "21.5 × 15 cm (8.5 × 5.9 in). (print)/ 30,6 x 20,1 cm. (paper)"
+            englishTitle: "Focal",
+            serie: '3,5mm',
+            artist: '1,15m',
+            dimensions: "220g"
         }]
     }), define("app/scenes/BlankLightbox", ["require", "exports", "module", "famous-scene/Scene", "famous/Surface", "famous/Matrix", "famous/Engine", "famous/Utility", "famous-utils/Utils", "app/widgets/FrontTile", "app/widgets/BackTile", "app/widgets/Lightbox", "core/Interface", "app/data"], function(t, i, e) {
         function s() {
@@ -7116,7 +7138,7 @@
         }
         s.prototype = Object.create(o.prototype), s.prototype.constructor = s, s.DEFAULT_OPTIONS = {}, s.prototype.events = function() {
             this.parentUI.on("showUI", function() {
-               this.showUI()
+                this.showUI()
             }.bind(this)), this.parentUI.on("hideUI", this.hideUI.bind(this)), this.lightbox.on("selectionView", this.parentUI.hideAllUI.bind(this.parentUI)), this.lightbox.on("gridView", this.parentUI.showAllUI.bind(this.parentUI))
         }, s.prototype.initUI = function() {
             this.nonDeboucnedReflow = this.lightbox.layout.reflow.bind(this.lightbox.layout), this.reflowGrid = r.debounce(this.lightbox.layout.reflow.bind(this.lightbox.layout), 150), this.labelProperties = {
@@ -7485,7 +7507,7 @@
 
         function o(t) {
             var i = "";
-            return t.series && (i += '<span class="lightbox-tag-title"> SERIES </span><br/>', i += '<span class="lightbox-tag-content">' + t.series + "</span><br/>"), t.edition && (i += '<span class="lightbox-tag-title"> EDITION </span><br/>', i += '<span class="lightbox-tag-content">' + t.edition + "</span><br/>"), t.artist && (i += '<span class="lightbox-tag-title"> ARTIST </span><br/>', i += '<span class="lightbox-tag-content">' + t.artist + "</span><br/>"), t.date && (i += '<span class="lightbox-tag-title"> DATE</span><br/>', i += '<span class="lightbox-tag-content">' + t.date + "</span><br/>"), t.material && (i += '<span class="lightbox-tag-title"> MATERIAL </span><br/>', i += '<span class="lightbox-tag-content">' + t.material + "</span><br/>"), t.size && (i += '<span class="lightbox-tag-title"> SIZE </span><br/>', i += '<span class="lightbox-tag-content">' + t.size + "</span>"), i
+            return t.series && (i += '<span class="lightbox-tag-title"> JACK TYPE </span><br/>', i += '<span class="lightbox-tag-content">' + t.series + "</span><br/>"), t.edition && (i += '<span class="lightbox-tag-title"> EDITION </span><br/>', i += '<span class="lightbox-tag-content">' + t.edition + "</span><br/>"), t.artist && (i += '<span class="lightbox-tag-title"> CABLE LENGTH</span><br/>', i += '<span class="lightbox-tag-content">' + t.artist + "</span><br/>"), t.material && (i += '<span class="lightbox-tag-title"> MATERIAL </span><br/>', i += '<span class="lightbox-tag-content">' + t.material + "</span><br/>"), t.size && (i += '<span class="lightbox-tag-title"> WEIGHT </span><br/>', i += '<span class="lightbox-tag-content">' + t.size + "</span><br/>"), t.date && (i += '<span class="lightbox-tag-title"> PRICE </span><br/>', i += '<span class="lightbox-tag-content">' + t.date + "</span><br/>"), i
         }
 
         function n(t) {
